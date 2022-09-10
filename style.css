@@ -1,0 +1,11 @@
+.home:hover p:hover{
+    color: blue
+}
+#dong_ho #bai4{
+    display: flex;
+    background-color: orange;
+    width: 60px;
+}
+#dong_ho #bai4 div{
+    position: relative;
+}
